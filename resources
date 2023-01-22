@@ -1,0 +1,5 @@
+Make sure you're in the N. Virginia (us-east-1) region throughout the lab.
+An SQS topic and DynamoDB table have been provided for you. The EC2 instance contains a script called send_message.py you can use to quickly 
+send a high volume of messages to SQS.
+The Source Code for the Lambda function can be found at the following link:
+https://raw.githubusercontent.com/ACloudGuru-Resources/SQSLambdaTriggers/master/lambda_function.py
